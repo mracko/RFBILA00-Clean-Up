@@ -7,9 +7,9 @@ Financial statements generated in SAP using the transaction code RFBILA00 are ge
 
 ![](images/RFBILA00_Result.PNG)
 
-**With the RFBILA00 Clean-Up Tool you can finally create pivot tables of SAP-generated financial statements in a couple of clicks.**
+**With the RFBILA00 Clean-Up Tool you can finally create pivot tables of SAP-generated financial statements in a couple of clicks!**
 
-Requirements:
+Python Package Requirements:
 - Pandas
 - Numpy
 - tkinter
